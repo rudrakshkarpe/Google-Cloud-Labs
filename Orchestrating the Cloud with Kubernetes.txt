@@ -57,3 +57,5 @@ kubectl create -f deployments/hello.yaml
 kubectl create -f services/hello.yaml
 kubectl get services frontend
 curl -k https://<EXTERNAL-IP>
+
+-------------------------------------------------
